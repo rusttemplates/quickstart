@@ -1,0 +1,5 @@
+= Quickstart Template
+
+This is a template for starting a new `rust` application with the `error-chain` library
+all set up and ready. It is based off the `quickstart.rs` file here:
+https://github.com/brson/error-chain/blob/master/examples/quickstart.rs
